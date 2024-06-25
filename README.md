@@ -6,7 +6,7 @@
 ### createdb create-db.sql   
 
 ## Subir o DB
-### docker-componse up
+### docker-compose up
 
 ## Necessário
 ### Instalação do Docker
